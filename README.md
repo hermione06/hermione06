@@ -1,6 +1,6 @@
 ## Hi there 👋 I'm @hermione06
 
-👋I'm Computer Science Student who has passion to learn new technologies.
+👋I'm Computer Science Student who is eager to learn new technologies.
 <!--
 **hermione06/hermione06** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
