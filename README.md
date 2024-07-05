@@ -1,17 +1,29 @@
-## Hi there 👋 I'm @hermione06
+# Asiman Ismayilova's GitHub Profile : @hermione06
 
-👋I'm Computer Science Student who is eager to learn new technologies.
-<!--
-**hermione06/hermione06** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
 
-Here are some ideas to get you started:
+Hi, I'm a Computer Science student with a passion for building innovative software solutions. I'm excited to share my projects and collaborations with the GitHub community.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Interests
+
+* Artificial Intelligence and Machine Learning
+* Web Development (Frontend and Backend)
+* Mobile App Development (Android and iOS)
+* Data Structures and Algorithms
+
+## Goals
+
+* Contribute to open-source projects and learn from the community
+* Develop a machine learning model that can solve a real-world problem
+* Build a full-stack web application using modern technologies
+
+## Skills
+
+* Programming languages: Java, Python, JavaScript, C++
+* Development frameworks: React, Node.js, Django
+* Databases: MySQL, MongoDB, Firebase
+* Operating Systems: Windows, Linux, macOS
+
+## Get in Touch
+
+Feel free to reach out to me on GitHub or asiman.ismayilova2006@mail.ru if you'd like to collaborate on a project or discuss any ideas.
