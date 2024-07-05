@@ -20,12 +20,6 @@ Hi, I'm a Computer Science student with a passion for building innovative softwa
 * Programming languages: Java, Python, C, HTML, CSS
 * Operating Systems: Windows, Linux
 
- ## Stats
-
-* Repositories: 10
-* Commits: 500
-* Followers: 100
-
 ## Get in Touch
 
 Feel free to reach out to me on GitHub or asiman.ismayilova.2006@mail.ru if you'd like to collaborate on a project or discuss any ideas.
