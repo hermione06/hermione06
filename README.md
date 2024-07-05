@@ -22,4 +22,4 @@ Hi, I'm a Computer Science student with a passion for building innovative softwa
 
 ## Get in Touch
 
-Feel free to reach out to me on GitHub or asiman.ismayilova2006@mail.ru if you'd like to collaborate on a project or discuss any ideas.
+Feel free to reach out to me on GitHub or asiman.ismayilova.2006@mail.ru if you'd like to collaborate on a project or discuss any ideas.
