@@ -6,23 +6,19 @@ Hi, I'm a Computer Science student with a passion for building innovative softwa
 
 ## Interests
 
-* Artificial Intelligence and Machine Learning
 * Web Development (Frontend and Backend)
-* Mobile App Development (Android and iOS)
+* Mobile App Development (Android)
 * Data Structures and Algorithms
 
 ## Goals
 
 * Contribute to open-source projects and learn from the community
-* Develop a machine learning model that can solve a real-world problem
 * Build a full-stack web application using modern technologies
 
 ## Skills
 
-* Programming languages: Java, Python, JavaScript, C++
-* Development frameworks: React, Node.js, Django
-* Databases: MySQL, MongoDB, Firebase
-* Operating Systems: Windows, Linux, macOS
+* Programming languages: Java, Python, C, HTML, CSS
+* Operating Systems: Windows, Linux
 
 ## Get in Touch
 
