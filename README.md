@@ -17,7 +17,7 @@ Hi, I'm a Computer Science student with a passion for building innovative softwa
 
 ## Skills
 
-* Programming languages: Java, Python, C, HTML, CSS
+* Programming languages/tools: Java, Python, C, HTML, CSS
 * Operating Systems: Windows, Linux
 
 ## Get in Touch
