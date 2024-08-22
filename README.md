@@ -24,7 +24,7 @@ I am Backend Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtB
 
 - :zap: In my free time, I solve Leetcode problems.
 
-- :mailbox:How to reach me: [![Mail Badge](https://img.shields.io/badge/-mail-blue?style=flat&logo=Mail&logoColor=white)](asiman.ismayilova.2006@mail.ru)
+- :mailbox:How to reach me: asiman.ismayilova.2006@mail.ru
 
 ### :hammer_and_wrench: Tech Stack :
 <div>
