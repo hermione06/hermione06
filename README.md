@@ -13,7 +13,7 @@
 </h1>
 
 ### :woman_technologist: About Me :
-I am Backend Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
+I am Backend Developer ⭐
 - :telescope: Studying Computer Science at UFAZ.
 
 - :computer: Currently working on VerseFlow.
@@ -46,5 +46,5 @@ I am Backend Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtB
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hermione06&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
 GIF from [Giphy](https://giphy.com) – [View GIF](https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExYXAzOWlxNGJmeGNsaDd3dmF3dmwxNWhyZ2RvNWd5b3Z0eHZuZnB1biZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L1R1tvI9svkIWwpVYr/giphy.gif).
-
 Icons made by [Devicons](https://github.com/devicons/devicon) from [Devicons](https://github.com/devicons/devicon) is licensed under [MIT License](https://github.com/devicons/devicon?tab=MIT-1-ov-file).
+The stats are powered by [GitHub Streak Stats](https://github.com/DenverCoder1/github-readme-streak-stats) by [DenverCoder1](https://github.com/DenverCoder1) and [GitHub Readme Stats](https://github.com/anuraghazra/github-readme-stats) by [Anurag Hazra](https://github.com/anuraghazra).
