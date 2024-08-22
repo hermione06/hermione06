@@ -7,11 +7,9 @@
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
 </div>
-<!-- profile view<img src="https://komarev.com/ghpvc/?username=hermione06&style=flat-square&color=blue" alt=""/>
- --> 
+
  <h1>
-  Hi there
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+  Hi there 👋
 </h1>
 
 ### :woman_technologist: About Me :
@@ -47,3 +45,6 @@ I am Backend Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtB
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=hermione06&theme=dark&background=000000)](https://git.io/streak-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hermione06&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
+GIF from [Giphy](https://giphy.com) – [View GIF](https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExYXAzOWlxNGJmeGNsaDd3dmF3dmwxNWhyZ2RvNWd5b3Z0eHZuZnB1biZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L1R1tvI9svkIWwpVYr/giphy.gif).
+
+Icons made by [Devicons](https://github.com/devicons/devicon) from [Devicons](https://github.com/devicons/devicon) is licensed under [MIT License](https://github.com/devicons/devicon?tab=MIT-1-ov-file).
