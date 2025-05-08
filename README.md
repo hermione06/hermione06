@@ -13,7 +13,7 @@
 </h1>
 
 ### :woman_technologist: About Me :
-I am Software & ML ⭐
+I am Software & ML Engineer ⭐
 - :telescope: Studying Computer Science at UFAZ.
 
 - :computer: Currently working on TelebeEvi.
