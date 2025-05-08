@@ -16,9 +16,9 @@
 I am Backend Developer ⭐
 - :telescope: Studying Computer Science at UFAZ.
 
-- :computer: Currently working on VerseFlow.
+- :computer: Currently working on TelebeEvi.
 
-- :seedling: Extending my knowledge of backend technologies; learning JavaScript to gain a better understanding of frontend development.
+- :seedling: Extending my knowledge of ML.
 
 - :zap: In my free time, I solve Leetcode problems.
 
